@@ -10,6 +10,7 @@
     "outDir": "./",
     "rootDir": "./",
     "jsx": "react-jsx",
+    "resolveJsonModule": true
   },
   "include": [
     "**/*.ts",
